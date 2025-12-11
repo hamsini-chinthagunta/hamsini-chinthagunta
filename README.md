@@ -54,19 +54,16 @@ My first "Hello World" Java program to begin my journey in backend development.
 
 ## 📊 GitHub Stats
 
+<!-- GitHub stats (stable, provided by vercel) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamsini-chinthagunta&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamsini-chinthagunta&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
+<!-- Top languages (compact) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamsini-chinthagunta&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsini-chinthagunta&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsini-chinthagunta&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
