@@ -41,11 +41,9 @@ Aspiring Software Engineer • Passionate Learner • Future Google Engineer �
 
 ## 📂 Featured Projects
 
-### # Portfolio Website
-
+###  Portfolio Website
 This is my personal portfolio website built using HTML and CSS.
-
-🔗 **Live site:** https://hamsini-chinthagunta.github.io/portfolio-website/
+🔗 **Live:** https://hamsini-chinthagunta.github.io/portfolio-website/
 🔗 **repo:** https://github.com/hamsini-chinthagunta/portfolio-website
 
 
